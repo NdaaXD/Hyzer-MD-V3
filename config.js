@@ -4,16 +4,16 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Ndaa'
-global.numberowner = '6288239928939'
+global.nameowner = 'ilham'
+global.numberowner = '6285815257161'
 global.instagram = 'https://instagram.com'
 global.github = 'https://github.com/NdaaXD'
-global.dana = '088239928939'
-global.pulsa = '088239928939'
-global.gopay = '088239928939'
+global.dana = '085815257161'
+global.pulsa = '085815257161'
+global.gopay = '085815257161'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'NdaaBotz-MD'
+global.namebot = 'BadBotz-MD'
 global.gc = ''
 global.web = 'https://github.com/NdaaXD' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'NdaaBotz-𝙼𝙳'
+global.wm = 'BadBotz-𝙼𝙳'
 global.watermark = wm
-global.wm2 = '                     「 NdaaBotz-𝙼𝙳 あ⁩ 」'
-global.wm3 = '⫹⫺ NdaaBotz-𝙼𝙳'
+global.wm2 = '                     「 BadBotz-𝙼𝙳 あ⁩ 」'
+global.wm3 = '⫹⫺ BadBotz-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© NdaaBotz Official'
+global.author = '© BadBotz Official'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
